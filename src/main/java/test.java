@@ -1,4 +1,4 @@
-public class pol 
+public class test
   {
     public static void main(String[] arqs){
       int size =6;
